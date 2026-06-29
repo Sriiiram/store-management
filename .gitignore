@@ -1,0 +1,10 @@
+node_modules/
+.next/
+prisma/store.db
+prisma/store.db-shm
+prisma/store.db-wal
+*.db
+.env
+.env.local
+.DS_Store
+tsconfig.tsbuildinfo
