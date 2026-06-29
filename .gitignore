@@ -1,8 +1,8 @@
 node_modules/
 .next/
-prisma/store.db
-prisma/store.db-shm
-prisma/store.db-wal
+data/store.db
+data/store.db-shm
+data/store.db-wal
 *.db
 .env
 .env.local
